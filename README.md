@@ -53,7 +53,7 @@ Node Version: v16.13.0
 
 ### Open view page
 
-https://user-images.githubusercontent.com/41588752/144149142-8ace2748-5180-4fae-81a8-d47f81e6d890.png
+![image](https://user-images.githubusercontent.com/41588752/144149241-1e1bb920-a4dc-41cb-919f-684401d73908.png)
 
 ## :boom: Routes Laboratory
 ```sh
