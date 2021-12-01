@@ -15,7 +15,7 @@ This project is a simple web socket server made with Node Js and html on view pa
 Node Version: v16.13.0
 ```
 
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)!
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
