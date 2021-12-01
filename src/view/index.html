@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8" />
+    <title>Demonstração - WebSocket</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="page-wrapper">
+      <h1>Testando o protocolo Websocket</h1>
+
+      <div id="status">Conectando...</div>
+
+      <ul id="messages"></ul>
+
+      <form id="message-form" action="#" method="post">
+        <textarea id="valueA" cols="1" rows="1"></textarea>
+        <textarea id="valueB" cols="1" rows="1"></textarea>
+        <button type="submit" id="sumBtn">Sum</button>
+        <button type="submit" id="subBtn">Sub</button>
+        <button type="submit" id="divBtn">Div</button>
+        <button type="submit" id="multiBtn">Multi</button>
+      </form>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
