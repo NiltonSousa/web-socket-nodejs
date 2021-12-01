@@ -45,10 +45,16 @@ Node Version: v16.13.0
   $ npm install
 ```
 
-### Run the application
+### Start the Web Socket
 
 ```sh
   $ npm start
+```
+
+### Open view page
+
+```sh
+  $ ![image](https://user-images.githubusercontent.com/41588752/144149142-8ace2748-5180-4fae-81a8-d47f81e6d890.png)
 ```
 
 ## :boom: Routes Laboratory
